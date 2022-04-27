@@ -43,7 +43,6 @@ header {
     aspect-ratio: 1/1;
     border-radius: 2rem;
     background: linear-gradient(45deg, transparent, var(--color-bg), transparent);
-    display: grid;
     place-items: center;
     display: none
 }
@@ -53,9 +52,9 @@ header {
     height: 100%;
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
+    display: grid;
+    margin-top: 6rem;
     transition: var(--transition);
-    margin-top: 12rem;
 }
 
 /* .intro__image {
@@ -145,9 +144,6 @@ header {
         height: 32rem;
     }
 
-    .intro__container {
-        display: none;
-    }
 }
 
 /* -----------MEDIA QUERIES (SM DEVICES)---------- */
@@ -164,7 +160,9 @@ header {
     .header__intro {
         width: 65%;
         margin: 0 auto 3rem; 
-        display: flex;
+        display: grid;
     }
+
+
    
 } 
