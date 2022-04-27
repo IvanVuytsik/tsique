@@ -37,7 +37,6 @@
 
 .service__list-icon {
     color: var(--color-primary);
-    font-size: 2rem;
     margin-top: 2px;
 }
 .service__list p {
@@ -53,6 +52,8 @@
     .service {
         height: auto;
     }
+
+  
 }
 
 /* -----------MEDIA QUERIES (SM DEVICES)---------- */
@@ -61,4 +62,8 @@
         grid-template-columns: 1fr;
         gap: 1.5rem;
     }
+
+   
+
+
 }

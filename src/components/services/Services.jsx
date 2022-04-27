@@ -1,7 +1,7 @@
 import React from 'react'
 import './services.css'
 import {BsCheck2} from 'react-icons/bs'
-
+ 
 const Services = () => {
   return (
     <section id='services'>
@@ -17,21 +17,17 @@ const Services = () => {
 
           <ul className='service__list'>
             <li>
-              <BsCheck2 className='service__list-icon' />
+              <div><BsCheck2 className='service__list-icon' /></div>
               <p>Backend development using Python</p>
             </li>
             <li>
-              <BsCheck2 className='service__list-icon' />
+              <div><BsCheck2 className='service__list-icon' /></div>
               <p>Frontend development using JavaScript</p>
             </li>
             <li>
-              <BsCheck2 className='service__list-icon' />
+              <div><BsCheck2 className='service__list-icon' /> </div>
               <p>Development of desktop and mobile games using Godot</p>
             </li>
-            {/* <li>
-              <BsCheck2 className='service__list-icon' />
-              <p></p>
-            </li> */}
           </ul>
         </article>
         {/* END OF PROGRAMMING */}
@@ -44,21 +40,17 @@ const Services = () => {
 
           <ul className='service__list'>
             <li>
-              <BsCheck2 className='service__list-icon' />
+              <div><BsCheck2 className='service__list-icon' /></div>
               <p>I draw icons, small assets and 2D graphics</p>
             </li>
             <li>
-              <BsCheck2 className='service__list-icon' />
+              <div><BsCheck2 className='service__list-icon' /></div>
               <p>I work with 3D graphics using Blender and voxel editors</p>
             </li>
             <li>
-              <BsCheck2 className='service__list-icon' />
+              <div><BsCheck2 className='service__list-icon' /></div>
               <p>I use Figma to design UI/UX</p>
             </li>
-            {/* <li>
-              <BsCheck2 className='service__list-icon' />
-              <p></p>
-            </li> */}
           </ul>
         </article>
         {/* DESIGN */}
