@@ -6,9 +6,6 @@ import {BiCrown} from 'react-icons/bi'
 import {FiUsers} from 'react-icons/fi'
 import {BsFolderCheck} from 'react-icons/bs'
 
-
-
-
 const About = () => {
   return (
     <section id='about'>
