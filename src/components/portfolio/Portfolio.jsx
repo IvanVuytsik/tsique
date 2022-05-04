@@ -8,7 +8,7 @@ const data = [
   image: IMG0,
   title: 'Python Game Blueprints',
   github: 'https://github.com/IvanVuytsik/python-rpg-box',
-  demo: 'https://www.youtube.com/channel/UCwNV-AEok2W6LEan95xZicQ',
+  demo: 'https://www.youtube.com/channel/UCwNV-AEok2W6LEan95xZicQ/videos',
 },
 
 ]

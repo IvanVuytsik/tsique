@@ -41,11 +41,11 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <div><BsCheck2 className='service__list-icon' /></div>
-              <p>I draw icons, small assets and 2D graphics</p>
+              <p>I create 2D assets using Aseprite and Synfig</p>
             </li>
             <li>
               <div><BsCheck2 className='service__list-icon' /></div>
-              <p>I work with 3D graphics using Blender and voxel editors</p>
+              <p>I create 3D assets using Blender and voxel editors</p>
             </li>
             <li>
               <div><BsCheck2 className='service__list-icon' /></div>

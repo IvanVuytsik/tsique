@@ -72,20 +72,6 @@ const Experience = () => {
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>DRF</h4>
-            </div>
-          </article>
-
-          <article className="experience__details">
-            <BsCheckCircle className='experience__details-icon'/>
-            <div>
-              <h4>PostgreSQL</h4>
-            </div>
-          </article>
-
-          <article className="experience__details">
-            <BsCheckCircle className='experience__details-icon'/>
-            <div>
               <h4>Docker</h4>
             </div>
           </article>
@@ -129,6 +115,13 @@ const Experience = () => {
             <BsCheckCircle className='experience__details-icon'/>
             <div>
               <h4>Figma</h4>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>Synfig</h4>
             </div>
           </article>
 
