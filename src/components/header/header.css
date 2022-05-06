@@ -85,7 +85,7 @@ header {
 }
 
 
-.theme-toggler {
+/* .theme-toggler {
     background: var(--color-bg-variant);
     display: flex;
     flex-direction: column;
@@ -118,7 +118,7 @@ header {
     background: var(--color-primary);
     color: var(--color-bg); 
     border-radius: 1rem;
-}
+} */
 
 
 /* -----------scroll down----------*/

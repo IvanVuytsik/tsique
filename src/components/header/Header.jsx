@@ -2,12 +2,13 @@ import React from 'react'
 import './header.css'
 import HeaderSocials from './Socials'
 import CTA from './CTA'
+// import Toggler from './Toggler'
 import Scene from '../scene/Scene'
 import IMG from '../../assets/codebear.png'
 
 
 const Header = () => {
-  // <Toggler />
+ 
   return (
     <header>
         <div className="container header__container">
@@ -17,7 +18,8 @@ const Header = () => {
           
           <CTA />
           <HeaderSocials />
-           
+          
+
           <div className='three__scene'>
             <Scene /> 
           </div> 
@@ -28,8 +30,13 @@ const Header = () => {
             </div>
           </div>
 
-  
+          {/* <Toggler />
+          <div className="theme-toggler">
+            <span className="material-icons-sharp">light_mode</span>
+            <span className="material-icons-sharp active">dark_mode</span>
+          </div>  */}
           
+
           <a href="#contact" className="scroll__down">Scroll Down</a>
 
         </div>

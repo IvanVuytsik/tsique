@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG0 from '../../assets/project_0.png'
-
+import IMG1 from '../../assets/project_1.png'
 const data = [
 {
   id: 0,
@@ -10,7 +10,13 @@ const data = [
   github: 'https://github.com/IvanVuytsik/python-rpg-box',
   demo: 'https://www.youtube.com/channel/UCwNV-AEok2W6LEan95xZicQ/videos',
 },
-
+{
+  id: 1,
+  image: IMG1,
+  title: 'Three.js Earth',
+  github: 'https://github.com/IvanVuytsik/earth_element',
+  demo: 'earthelement.vercel.app/',
+},
 ]
 
 
@@ -38,7 +44,6 @@ const Portfolio = () => {
           })
         }
 
-    
       </div>
     </section>
   )

@@ -26,16 +26,30 @@
     --container-width-sm: 90%;
 }
 
-.light-theme-variables {
+
+.dark-theme {
+    --color-bg: #292424;
+    --color-bg-variant: #383232;
+    --color-primary: #d8a878;
+    --color-primary-variant: #d8a878;
+    --color-white: #ecd4bd; 
+    --color-light: rgba(255, 255, 255, 0.6);
+    --color-nav: rgba(255, 255, 255, 0.6);
+}
+
+.light-theme {
     --color-bg: #d8a878;
     --color-bg-variant: rgba(179, 123, 55, 0.4);
     --color-primary: #292424;
     --color-primary-variant: #383232;
-    --color-white: #2c1c09; /*#fff;*/ 
+    --color-white: #2c1c09; 
     --color-light: rgba(44, 43, 43, 0.6);    
     --color-nav: rgba(255, 255, 255, 0.6);
-    
 }
+
+
+
+
 
 
 
