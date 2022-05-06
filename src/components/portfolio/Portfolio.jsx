@@ -15,7 +15,7 @@ const data = [
   image: IMG1,
   title: 'Three.js Earth',
   github: 'https://github.com/IvanVuytsik/earth_element',
-  demo: 'earthelement.vercel.app/',
+  demo: 'https://earthelement.vercel.app/',
 },
 ]
 
