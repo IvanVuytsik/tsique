@@ -24,13 +24,13 @@ const About = () => {
             <article className='about__card'>
               <BiCrown className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ Years of Experience</small>
+              <small>2+ Years of Experience</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>2+ Clients</small>
+              <small>3+ Clients</small>
             </article>
 
             <article className='about__card'>
@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            My name is Ivan. Programming and design have been my passions for a while now. Recently, I have decided to pursue this opportunity as a full time occupation. Please do not hesitate to get in touch if you have something fun or creative in mind.
+            My name is Ivan. Programming and design have been my passions for a while now. I enjoy working with code and graphics by building interactive projects. Please do not hesitate to get in touch if you have something fun or creative in mind.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
