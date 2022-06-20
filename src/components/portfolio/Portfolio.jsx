@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG0 from '../../assets/project_0.png'
 import IMG1 from '../../assets/project_1.png'
 import IMG2 from '../../assets/project_2.png'
-import { Hidden } from '@material-ui/core'
+
 const data = [
 {
   id: 0,
