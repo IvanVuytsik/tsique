@@ -18,15 +18,15 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <div><BsCheck2 className='service__list-icon' /></div>
-              <p>Backend development using Python</p>
+              <p>Development using Python</p>
             </li>
             <li>
               <div><BsCheck2 className='service__list-icon' /></div>
-              <p>Frontend development using JavaScript</p>
+              <p>Development using JavaScript/TypeScript</p>
             </li>
             <li>
               <div><BsCheck2 className='service__list-icon' /> </div>
-              <p>Development of desktop and mobile games using Godot</p>
+              <p>Development of mobile games using Godot</p>
             </li>
           </ul>
         </article>

@@ -30,7 +30,7 @@ const Experience = () => {
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>JavaScript</h4>
+              <h4>JS/TS</h4>
             </div>
           </article>
 
@@ -45,6 +45,27 @@ const Experience = () => {
             <BsCheckCircle className='experience__details-icon'/>
             <div>
               <h4>React</h4>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>Redux Toolkit</h4>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>React Native</h4>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>ThreeJS/Three Fiber</h4>
             </div>
           </article>
 
@@ -73,6 +94,34 @@ const Experience = () => {
             <BsCheckCircle className='experience__details-icon'/>
             <div>
               <h4>Docker</h4>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>REST</h4>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>MongoDB</h4>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>Express</h4>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>Node</h4>
             </div>
           </article>
 
