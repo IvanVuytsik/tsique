@@ -4,6 +4,7 @@ import IMG0 from '../../assets/project_0.png'
 import IMG1 from '../../assets/project_1.png'
 import IMG2 from '../../assets/project_2.png'
 import IMG3 from '../../assets/project_3.png'
+import IMG4 from '../../assets/project_4.png'
 
 const data = [
 {
@@ -36,6 +37,14 @@ const data = [
   title: 'Three.js Witch Moon',
   github: 'https://github.com/IvanVuytsik/threemoon',
   demo: 'https://witchhut.vercel.app/',
+  status: 'flex',
+},
+{
+  id: 4,
+  image: IMG4,
+  title: 'MERN Blog',
+  github: 'https://github.com/IvanVuytsik/api',
+  demo: 'https://blog-tsq.herokuapp.com/',
   status: 'flex',
 },
 ]
