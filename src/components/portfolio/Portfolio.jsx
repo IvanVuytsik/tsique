@@ -5,6 +5,7 @@ import IMG1 from '../../assets/project_1.png'
 import IMG2 from '../../assets/project_2.png'
 import IMG3 from '../../assets/project_3.png'
 import IMG4 from '../../assets/project_4.png'
+import IMG5 from '../../assets/project_5.png'
 
 const data = [
 {
@@ -45,6 +46,14 @@ const data = [
   title: 'MERN Blog',
   github: 'https://github.com/IvanVuytsik/api',
   demo: 'https://blog-tsq.herokuapp.com/',
+  status: 'flex',
+},
+{
+  id: 5,
+  image: IMG5,
+  title: 'Flickmo',
+  github: 'https://github.com/IvanVuytsik/ssr',
+  demo: 'https://flickmo.vercel.app/?genre=fetchTopRated',
   status: 'flex',
 },
 ]
