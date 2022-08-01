@@ -6,6 +6,7 @@ import IMG2 from '../../assets/project_2.png'
 import IMG3 from '../../assets/project_3.png'
 import IMG4 from '../../assets/project_4.png'
 import IMG5 from '../../assets/project_5.png'
+import IMG6 from '../../assets/project_6.png'
 
 const data = [
 {
@@ -54,6 +55,14 @@ const data = [
   title: 'Flickmo',
   github: 'https://github.com/IvanVuytsik/ssr',
   demo: 'https://flickmo.vercel.app/?genre=fetchTopRated',
+  status: 'flex',
+},
+{
+  id: 6,
+  image: IMG6,
+  title: 'JavaScript Games',
+  github: 'https://github.com/IvanVuytsik/KnightsVsEvil',
+  demo: 'https://knights-vs-evil.vercel.app/',
   status: 'flex',
 },
 ]
