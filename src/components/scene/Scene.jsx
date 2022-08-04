@@ -36,7 +36,7 @@ function Scene() {
       
 
       <Codebear />
-      <OrbitControls />
+      <OrbitControls enableZoom={false} />
 
     </Canvas>
   )
