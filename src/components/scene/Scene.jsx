@@ -12,7 +12,7 @@ function Scene() {
   return (
     <Canvas 
        
-      camera={{ position: [-6, 4, -10], fov: 30 }}>
+      camera={{ position: [-6, 4, -10], fov: 40 }}>
 
       <ambientLight intensity={0.3} />
 
