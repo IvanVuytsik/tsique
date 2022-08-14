@@ -1,7 +1,7 @@
 import React, { Suspense, useRef } from "react";
 import { Canvas} from "@react-three/fiber";
 import { OrbitControls, useHelper  } from "@react-three/drei";
-import { SpotLightHelper, PointLightHelper } from "three"
+import { SpotLightHelper, PointLightHelper } from "three";
 
 import Codebear from "./Codebear.js";
 // import "./scene.css";

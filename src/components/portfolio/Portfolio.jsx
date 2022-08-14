@@ -52,17 +52,17 @@ const data = [
 {
   id: 5,
   image: IMG5,
-  title: 'Flickmo',
-  github: 'https://github.com/IvanVuytsik/ssr',
-  demo: 'https://flickmo.vercel.app/?genre=fetchTopRated',
+  title: 'JavaScript Games',
+  github: 'https://github.com/IvanVuytsik/KnightsVsEvil',
+  demo: 'https://knights-vs-evil.vercel.app/',
   status: 'flex',
 },
 {
   id: 6,
   image: IMG6,
-  title: 'JavaScript Games',
-  github: 'https://github.com/IvanVuytsik/KnightsVsEvil',
-  demo: 'https://knights-vs-evil.vercel.app/',
+  title: 'Videonest',
+  github: 'https://github.com/IvanVuytsik/Videonest',
+  demo: 'https://videonest-tsq.herokuapp.com/',
   status: 'flex',
 },
 ]
