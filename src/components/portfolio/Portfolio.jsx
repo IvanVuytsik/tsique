@@ -60,7 +60,7 @@ const data = [
 {
   id: 6,
   image: IMG6,
-  title: 'Videonest',
+  title: 'MERN Videonest',
   github: 'https://github.com/IvanVuytsik/Videonest',
   demo: 'https://videonest-tsq.herokuapp.com/',
   status: 'flex',

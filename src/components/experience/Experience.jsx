@@ -69,6 +69,13 @@ const Experience = () => {
             </div>
           </article>
 
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>Next</h4>
+            </div>
+          </article>
+
         </div>
       </div>
 
@@ -128,7 +135,7 @@ const Experience = () => {
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>Next</h4>
+              <h4>Firebase</h4>
             </div>
           </article>
 
