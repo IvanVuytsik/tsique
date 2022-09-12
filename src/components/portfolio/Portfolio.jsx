@@ -65,6 +65,14 @@ const data = [
   demo: 'https://videonest-tsq.herokuapp.com/',
   status: 'flex',
 },
+{
+  id: 7,
+  image: IMG7,
+  title: 'React Panel',
+  github: 'https://github.com/IvanVuytsik/control_panel',
+  demo: 'https://control-panel-beta.vercel.app/',
+  status: 'flex',
+},
 ]
 
 

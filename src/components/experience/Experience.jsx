@@ -23,7 +23,7 @@ const Experience = () => {
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon' />
             <div> 
-              <h4>CSS, Tailwind</h4>
+              <h4>(S)CSS, Tailwind</h4>
             </div> 
           </article>
 
@@ -72,7 +72,14 @@ const Experience = () => {
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>Next</h4>
+              <h4>Next.js</h4>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>Material/Chakra UI</h4>
             </div>
           </article>
 
@@ -107,28 +114,28 @@ const Experience = () => {
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>REST</h4>
+              <h4>REST API</h4>
             </div>
           </article>
 
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>MongoDB</h4>
+              <h4>MongoDB, PostgreSQL</h4>
             </div>
           </article>
 
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>Express</h4>
+              <h4>Express.js</h4>
             </div>
           </article>
 
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>Node</h4>
+              <h4>Node,js</h4>
             </div>
           </article>
 
