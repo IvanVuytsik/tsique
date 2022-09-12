@@ -135,7 +135,7 @@ const Experience = () => {
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>Node,js</h4>
+              <h4>Node.js</h4>
             </div>
           </article>
 
