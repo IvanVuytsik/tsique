@@ -121,7 +121,7 @@ const Experience = () => {
           <article className="experience__details">
             <BsCheckCircle className='experience__details-icon'/>
             <div>
-              <h4>MongoDB, PostgreSQL</h4>
+              <h4>MongoDB</h4>
             </div>
           </article>
 
@@ -146,9 +146,17 @@ const Experience = () => {
             </div>
           </article>
 
+          <article className="experience__details">
+            <BsCheckCircle className='experience__details-icon'/>
+            <div>
+              <h4>PostgreSQL</h4>
+            </div>
+          </article>
+
+
         </div>
       </div>
-
+ 
       {/*----------------------------AUX SECTION------------------------*/}
       <div className='experience__technologies'>
         <h3>Auxiliary Technologies</h3>
