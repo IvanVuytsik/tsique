@@ -8,6 +8,7 @@ import IMG4 from '../../assets/project_4.png'
 import IMG5 from '../../assets/project_5.png'
 import IMG6 from '../../assets/project_6.png'
 import IMG7 from '../../assets/project_7.png'
+import IMG8 from '../../assets/project_8.png'
 
 const data = [
 {
@@ -72,6 +73,14 @@ const data = [
   title: 'React Panel',
   github: 'https://github.com/IvanVuytsik/control_panel',
   demo: 'https://control-panel-beta.vercel.app/',
+  status: 'flex',
+},
+{
+  id: 8,
+  image: IMG8,
+  title: 'JavaScript Agency ',
+  github: 'https://github.com/IvanVuytsik/digital_agency',
+  demo: 'https://digital-agency-eta.vercel.app/',
   status: 'flex',
 },
 ]
