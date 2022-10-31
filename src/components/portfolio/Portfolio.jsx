@@ -88,7 +88,7 @@ const data = [
   id: 9,
   image: IMG9,
   title: 'PyTactics: Gamified Python Course',
-  github: 'https://github.com/IvanVuytsik/PyTactics/blob/master/README.md',
+  github: 'https://github.com/IvanVuytsik/PyTactics',
   demo: 'https://powerhamster.itch.io/pytactics',
   status: 'flex',
 },
