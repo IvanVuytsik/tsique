@@ -1,14 +1,15 @@
-import React from 'react'
-import './portfolio.css'
-import IMG0 from '../../assets/project_0.png'
-import IMG1 from '../../assets/project_1.png'
-import IMG2 from '../../assets/project_2.png'
-import IMG3 from '../../assets/project_3.png'
-import IMG4 from '../../assets/project_4.png'
-import IMG5 from '../../assets/project_5.png'
-import IMG6 from '../../assets/project_6.png'
-import IMG7 from '../../assets/project_7.png'
-import IMG8 from '../../assets/project_8.png'
+import React from 'react';
+import './portfolio.css';
+import IMG0 from '../../assets/project_0.png';
+import IMG1 from '../../assets/project_1.png';
+import IMG2 from '../../assets/project_2.png';
+import IMG3 from '../../assets/project_3.png';
+import IMG4 from '../../assets/project_4.png';
+import IMG5 from '../../assets/project_5.png';
+import IMG6 from '../../assets/project_6.png';
+import IMG7 from '../../assets/project_7.png';
+import IMG8 from '../../assets/project_8.png';
+import IMG9 from '../../assets/project_9.png';
 
 const data = [
 {
@@ -78,9 +79,17 @@ const data = [
 {
   id: 8,
   image: IMG8,
-  title: 'JavaScript Agency ',
+  title: 'JavaScript Agency',
   github: 'https://github.com/IvanVuytsik/digital_agency',
   demo: 'https://digital-agency-eta.vercel.app/',
+  status: 'flex',
+},
+{
+  id: 9,
+  image: IMG9,
+  title: 'PyTactics: Gamified Python Course',
+  github: 'https://github.com/IvanVuytsik/PyTactics/blob/master/README.md',
+  demo: 'https://powerhamster.itch.io/pytactics',
   status: 'flex',
 },
 ]
