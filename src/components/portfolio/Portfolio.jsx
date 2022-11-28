@@ -10,6 +10,7 @@ import IMG6 from '../../assets/project_6.png';
 import IMG7 from '../../assets/project_7.png';
 import IMG8 from '../../assets/project_8.png';
 import IMG9 from '../../assets/project_9.jpg';
+import IMG10 from '../../assets/project_10.jpg';
 
 const data = [
 {
@@ -90,6 +91,14 @@ const data = [
   title: 'PyTactics: Gamified Python Course',
   github: 'https://github.com/IvanVuytsik/PyTactics',
   demo: 'https://powerhamster.itch.io/pytactics',
+  status: 'flex',
+},
+{
+  id: 10,
+  image: IMG10,
+  title: 'Three/Fiber Racing',
+  github: 'https://github.com/IvanVuytsik/bear_racing',
+  demo: 'https://vercel.com/ivanvuytsik/bear-racing',
   status: 'flex',
 },
 ]
