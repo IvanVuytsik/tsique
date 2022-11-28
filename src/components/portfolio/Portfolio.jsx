@@ -96,7 +96,7 @@ const data = [
 {
   id: 10,
   image: IMG10,
-  title: 'Three/Fiber Racing',
+  title: 'React/Fiber Racing',
   github: 'https://github.com/IvanVuytsik/bear_racing',
   demo: 'https://vercel.com/ivanvuytsik/bear-racing',
   status: 'flex',
