@@ -10,7 +10,7 @@ import IMG6 from '../../assets/project_6.png';
 import IMG7 from '../../assets/project_7.png';
 import IMG8 from '../../assets/project_8.png';
 import IMG9 from '../../assets/project_9.jpg';
-import IMG10 from '../../assets/project_10.jpg';
+import IMG10 from '../../assets/project_10.png';
 
 const data = [
 {
