@@ -11,6 +11,7 @@ import IMG7 from '../../assets/project_7.png';
 import IMG8 from '../../assets/project_8.png';
 import IMG9 from '../../assets/project_9.jpg';
 import IMG10 from '../../assets/project_10.png';
+import IMG11 from '../../assets/project_11.png';
 
 const data = [
 {
@@ -99,6 +100,14 @@ const data = [
   title: 'React/Fiber Racing',
   github: 'https://github.com/IvanVuytsik/bear_racing',
   demo: 'https://bear-racing.vercel.app/',
+  status: 'flex',
+},
+{
+  id: 11,
+  image: IMG11,
+  title: '3D Object Configurator',
+  github: 'https://github.com/IvanVuytsik/3dConfigurator',
+  demo: 'https://3d-configurator-phi.vercel.app/',
   status: 'flex',
 },
 ]
