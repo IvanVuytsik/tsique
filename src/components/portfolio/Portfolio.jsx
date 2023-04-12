@@ -49,10 +49,9 @@ const data = [
 {
   id: 4,
   image: IMG4,
-  title: 'MERN Blog',
-  github: 'https://github.com/IvanVuytsik/api',
-  demo: 'https://blog-tsq.herokuapp.com/',
-  status: 'flex',
+  title: 'Adventure Game', 
+  demo: 'https://ottf-webpage.vercel.app/',
+  status: 'none',
 },
 {
   id: 5,
