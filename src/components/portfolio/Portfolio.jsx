@@ -111,7 +111,14 @@ const data = [
   demo: 'https://3d-configurator-phi.vercel.app/',
   status: 'flex',
 },
- 
+{
+  id: 12,
+  image: IMG12,
+  title: 'JavaScript Games II',
+  github: 'https://github.com/IvanVuytsik/monster_bouncer',
+  demo: 'https://monster-bouncer.vercel.app/',
+  status: 'flex',
+},
 ]
 
 
