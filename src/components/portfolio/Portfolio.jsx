@@ -58,7 +58,7 @@ const data = [
 {
   id: 5,
   image: IMG5,
-  title: 'JavaScript Games I',
+  title: 'JavaScript Games',
   github: 'https://github.com/IvanVuytsik/KnightsVsEvil',
   demo: 'https://knights-vs-evil.vercel.app/',
   status: 'flex',
@@ -111,14 +111,7 @@ const data = [
   demo: 'https://3d-configurator-phi.vercel.app/',
   status: 'flex',
 },
-{
-  id: 12,
-  image: IMG12,
-  title: 'JavaScript Games II',
-  github: 'https://github.com/IvanVuytsik/monster_bouncer',
-  demo: 'https://monster-bouncer.vercel.app/',
-  status: 'flex',
-},
+ 
 ]
 
 
