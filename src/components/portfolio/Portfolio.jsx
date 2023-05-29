@@ -16,28 +16,12 @@ import IMG12 from '../../assets/project_12.png';
 
 const data = [
 {
-  id: 0,
-  image: IMG0,
-  title: 'Python Game Blueprints',
-  github: 'https://github.com/IvanVuytsik/python-rpg-box',
-  demo: 'https://www.youtube.com/channel/UCwNV-AEok2W6LEan95xZicQ/videos',
-  status: 'flex',
-},
-{
   id: 1,
   image: IMG1,
   title: 'Three.js Earth',
   github: 'https://github.com/IvanVuytsik/earth_element',
   demo: 'https://earthelement.vercel.app/',
   status: 'flex',
-},
-{
-  id: 2,
-  image: IMG2,
-  title: 'Spellpot Studio',
-  github: '',
-  demo: 'https://spellpot.com/',
-  status: 'none',
 },
 {
   id: 3,
@@ -61,14 +45,6 @@ const data = [
   title: 'JavaScript Games',
   github: 'https://github.com/IvanVuytsik/KnightsVsEvil',
   demo: 'https://knights-vs-evil.vercel.app/',
-  status: 'flex',
-},
-{
-  id: 6,
-  image: IMG6,
-  title: 'MERN Videonest',
-  github: 'https://github.com/IvanVuytsik/Videonest',
-  demo: 'https://videonest-tsq.herokuapp.com/',
   status: 'flex',
 },
 {
