@@ -34,7 +34,7 @@ const data = [
 {
   id: 4,
   image: IMG4,
-  title: 'Adventure Game', 
+  title: 'Godot: 3D Game', 
   github: '',
   demo: 'https://ottf-webpage.vercel.app/',
   status: 'none',
